@@ -1,5 +1,5 @@
 
-# EA-Serious
+# laggATARI
 Our group is inspired by the PONG video game, a sports arcade game that simulates table tennis in 2D.<br>
 PONG was born in the 70s bringing to the market the first console in history.
 ###### sudo apt upgrade: we inspire the past to look to the future.
