@@ -12,8 +12,9 @@ We are Italian students who attend the ITIS "Mario Delpozzo", classes "4A sectio
 * ### [Cuniberti Andrea](https://github.com/AndreaCuni)
 * ### [Lovera Asia](https://github.com/asialovera95)
 * ### [Minsenti Jeremy](https://github.com/MinsentiJeremyCN)
-* ### [Van Cleeff Jacopo](https://github.com/jacopovancleeff)
 * ### [Pano Nicolò](https://github.com/NicoloPano)
+* ### [Van Cleeff Jacopo](https://github.com/jacopovancleeff)
+
 
 
 # Thanks to
