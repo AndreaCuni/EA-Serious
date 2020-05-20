@@ -4,7 +4,7 @@ Our goal is to create one of the most famous minigames in 2D of the 70s,
 PONG!<br>
 We inspired ourself by the PONG video game, a sports arcade game that simulates table tennis in 2D.<br>
 PONG was born in the 70s bringing to the market the first console in history.
-###### sudo apt upgrade: we inspire the past to look to the future.
+###### sudo apt update: we inspire the past to look to the future.
 This project is done in collaboration with IIT, the Italian Institute of Technology.
 
 # The team
