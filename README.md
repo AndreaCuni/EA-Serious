@@ -8,7 +8,7 @@ PONG was born in the 70s bringing to the market the first console in history.
 This project is done in collaboration with IIT, the Italian Institute of Technology.
 
 # The team
-We are Italian students who attend the ITIS "Mario Delpozzo", classes "4A section:computer science" and "4A section: robotics" in collaboration.
+We are Italian students who attend the ITIS "Mario Delpozzo", classes "4A section: computer science" and "4A section: robotics" in collaboration.
 * ### [Cuniberti Andrea](https://github.com/AndreaCuni)
 * ### [Lovera Asia](https://github.com/asialovera95)
 * ### [Minsenti Jeremy](https://github.com/MinsentiJeremyCN)
