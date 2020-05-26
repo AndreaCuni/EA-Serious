@@ -25,12 +25,6 @@ class Macchinina{
       image(macchina,x,y,100,50);
 
     }
-    
-    public void move(float x,float y){
-      setX(x);
-      setY(y); 
-    }
-
 
     public Float getX() {
         return x;
