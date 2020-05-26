@@ -19,6 +19,11 @@ class Macchinina{
       this.y = y;
 
     }
+    
+    public void move(float x,float y){
+      setX(x);
+      setY(y); 
+    }
 
     public void show(){
 
