@@ -7,8 +7,8 @@ class Macchinina{
     public Macchinina(){
       
       macchina = loadImage("Jpeg17.jpg");  
-      x = 400;
-      y = 250;
+      x = width/2;
+      y = eight/2;
 
     }
 
