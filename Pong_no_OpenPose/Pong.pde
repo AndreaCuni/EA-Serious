@@ -19,7 +19,7 @@ void setup(){
   left = new Paddle(true);
   right = new Paddle(false);
   
-  tv = loadImage("tavolo.JPEG");
+  tv = loadImage("tavolo.jpeg");
 }
 
 void draw(){
