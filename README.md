@@ -22,5 +22,5 @@ We are Italian students who attend the ITIS "Mario Delpozzo", classes "4A sectio
 
 # Thanks to
 
-I.I.T. of Genoa for providing us OpenPose body tracking algorithm.<br>
-I.T.I.S. Mario Delpozzo for making this collaboration possible.
+_I.I.T. of Genoa for providing us OpenPose body tracking algorithm.<br>
+I.T.I.S. Mario Delpozzo for making this collaboration possible._
