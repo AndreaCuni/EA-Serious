@@ -11,7 +11,9 @@ This project is done in collaboration with IIT, the Italian Institute of Technol
 ![immagine](https://github.com/AndreaCuni/laggATARI/blob/master/IIT_logo.png)<br>
 
 # The team
-We are Italian students who attend the ITIS "Mario Delpozzo", classes "4A section: computer science" and "4A section: robotics". We work together to achieve better results
+We are Italian students who attend the ITIS "Mario Delpozzo", classes "4A section: computer science" and "4A section: robotics".<br>
+We work together to achieve better results
+
 * ### [Cuniberti Andrea](https://github.com/AndreaCuni)
 * ### [Lovera Asia](https://github.com/asialovera95)
 * ### [Minsenti Jeremy](https://github.com/MinsentiJeremyCN)
