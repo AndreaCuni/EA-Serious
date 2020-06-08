@@ -8,6 +8,7 @@ We were inspired by the PONG video game, a sports arcade game that simulates tab
 PONG was born in the 70s bringing to the market the first console in history.
 ###### sudo apt update: we inspire the past to look to the future.
 This project is done in collaboration with IIT, the Italian Institute of Technology.
+![immagine](https://github.com/AndreaCuni/laggATARI/blob/master/IIT_logo.png)<br>
 
 # The team
 We are Italian students who attend the ITIS "Mario Delpozzo", classes "4A section: computer science" and "4A section: robotics". We work together to achieve better results
