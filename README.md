@@ -2,6 +2,8 @@
 # laggATARI
 Our goal is to create one of the most famous minigames in 2D of the 70s, 
 PONG!<br>
+![immagine](https://github.com/AndreaCuni/laggATARI/blob/master/pong.jpg)<br>
+
 We were inspired by the PONG video game, a sports arcade game that simulates table tennis in 2D.<br>
 PONG was born in the 70s bringing to the market the first console in history.
 ###### sudo apt update: we inspire the past to look to the future.
