@@ -10,6 +10,12 @@ PONG was born in the 70s bringing to the market the first console in history.
 This project is done in collaboration with IIT, the Italian Institute of Technology.
 ![immagine](https://github.com/AndreaCuni/laggATARI/blob/master/IIT_logo.png)<br>
 
+# Some screenshots of our games
+This is our main game: PONG!<br>
+![immagine](https://github.com/AndreaCuni/laggATARI/blob/master/Screenshots/pong.jpg)<br>
+
+And this is our traffic racer: the red cars are the enemies and you must not touch them with your white one!<br>
+![immagine](https://github.com/AndreaCuni/laggATARI/blob/master/Screenshots/traffic_racer.jpg)<br>
 # The team
 We are Italian students who attend the ITIS "Mario Delpozzo", classes "4A section: computer science" and "4A section: robotics".<br>
 We work together to achieve better results
